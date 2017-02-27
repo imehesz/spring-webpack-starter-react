@@ -1,0 +1,12 @@
+/target/
+.classpath
+.project
+.settings/
+*.log
+*.1
+config/
+users/
+*.swp
+node_modules
+node
+bundle*.*

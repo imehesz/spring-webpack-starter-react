@@ -1,0 +1,12 @@
+body {
+  background-color: var(--colorBackground);
+}
+
+a {
+  color: var(--colorLink);
+  display: flex;
+}
+
+h1 {
+  color: var(--colorMainTitle);
+}
