@@ -9,7 +9,7 @@ Spring Starter https://github.com/ddalcu/spring-starter (Java)
 
 Frontend Maven Plugin https://github.com/eirslett/frontend-maven-plugin (NodeJS)
 
-YAWPAR https://github.com/imehesz/YAWPAR (SPA, WebPack, Babel, PostCSS, RiotJS)
+YAWPARRE https://github.com/imehesz/YAWPARRE (SPA, WebPack, Babel, ReactJS, Jumpsuit, React Templates)
 
 
 Usage
